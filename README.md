@@ -1,6 +1,6 @@
 # NFV-256 Cipher
 
-Aplikasi web dan mobile berbasis **Flutter** untuk melakukan proses enkripsi dan dekripsi menggunakan algoritma **Neighbor-Feedback Vigenère 256 (NFV-256)**. Proyek ini dirancang dengan arsitektur bersih (*Clean Architecture* & *Modular*), antarmuka modern Material 3, serta dilengkapi dengan tabel rincian langkah iterasi matematis untuk keperluan akademis dan praktikum kriptografi.
+Aplikasi web dan mobile berbasis **Flutter** untuk melakukan proses enkripsi dan dekripsi menggunakan algoritma **Neighbor-Feedback Vigenère 256 (NFV-256)**.
 
 ## Fitur Utama
 
