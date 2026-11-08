@@ -50,7 +50,7 @@ Pastikan Anda sudah menginstal [Flutter SDK](https://flutter.dev/) di komputer A
 1. **Clone repositori ini:**
    ```bash
    git clone https://github.com/nashela/kriptografi.git
-   cd nfv256_cipher
+   cd kriptografi
    ```
 
 2. **Ambil dependensi pustaka:**
